@@ -1,0 +1,233 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "email": "alice.smith@example.com",
+    "phone": "555-0100",
+    "address": "123 Maple St, Springfield",
+    "date_of_birth": "1985-06-12",
+    "account_balance": 1500.50,
+    "created_at": "2024-01-15T08:30:00Z"
+  },
+  {
+    "customer_id": "CUST-002",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "email": "bob.j@example.com",
+    "phone": "555-0101",
+    "address": "456 Oak Dr, Shelbyville",
+    "date_of_birth": "1990-11-23",
+    "account_balance": 250.00,
+    "created_at": "2024-02-20T10:15:00Z"
+  },
+  {
+    "customer_id": "CUST-003",
+    "first_name": "Charlie",
+    "last_name": "Brown",
+    "email": "cbrown@example.com",
+    "phone": "555-0102",
+    "address": "789 Pine Ln, Capital City",
+    "date_of_birth": "1992-04-05",
+    "account_balance": 0.00,
+    "created_at": "2024-03-10T14:45:00Z"
+  },
+  {
+    "customer_id": "CUST-004",
+    "first_name": "Diana",
+    "last_name": "Prince",
+    "email": "diana.p@example.com",
+    "phone": "555-0103",
+    "address": "321 Cedar Blvd, Themyscira",
+    "date_of_birth": "1988-08-30",
+    "account_balance": 5400.75,
+    "created_at": "2024-04-01T09:00:00Z"
+  },
+  {
+    "customer_id": "CUST-005",
+    "first_name": "Evan",
+    "last_name": "Wright",
+    "email": "evan.w@example.com",
+    "phone": "555-0104",
+    "address": "654 Birch Ct, Springfield",
+    "date_of_birth": "1975-12-11",
+    "account_balance": 980.20,
+    "created_at": "2024-04-15T11:20:00Z"
+  },
+  {
+    "customer_id": "CUST-006",
+    "first_name": "Fiona",
+    "last_name": "Gallagher",
+    "email": "fiona.g@example.com",
+    "phone": "555-0105",
+    "address": "987 Elm St, Shelbyville",
+    "date_of_birth": "1995-02-14",
+    "account_balance": 45.60,
+    "created_at": "2024-05-05T16:30:00Z"
+  },
+  {
+    "customer_id": "CUST-007",
+    "first_name": "George",
+    "last_name": "Miller",
+    "email": "gmiller@example.com",
+    "phone": "555-0106",
+    "address": "147 Spruce Way, Capital City",
+    "date_of_birth": "1982-09-09",
+    "account_balance": 3200.00,
+    "created_at": "2024-06-12T08:45:00Z"
+  },
+  {
+    "customer_id": "CUST-008",
+    "first_name": "Hannah",
+    "last_name": "Abbott",
+    "email": "hannah.a@example.com",
+    "phone": "555-0107",
+    "address": "258 Ash Pl, Hogsmeade",
+    "date_of_birth": "1998-03-22",
+    "account_balance": 150.99,
+    "created_at": "2024-07-01T10:05:00Z"
+  },
+  {
+    "customer_id": "CUST-009",
+    "first_name": "Ian",
+    "last_name": "Malcolm",
+    "email": "ian.m@example.com",
+    "phone": "555-0108",
+    "address": "369 Fern Dr, Isla Nublar",
+    "date_of_birth": "1965-07-16",
+    "account_balance": 8800.50,
+    "created_at": "2024-07-20T13:10:00Z"
+  },
+  {
+    "customer_id": "CUST-010",
+    "first_name": "Julia",
+    "last_name": "Child",
+    "email": "julia.c@example.com",
+    "phone": "555-0109",
+    "address": "741 Willow Ave, Paris",
+    "date_of_birth": "1950-08-15",
+    "account_balance": 12500.00,
+    "created_at": "2024-08-05T09:30:00Z"
+  },
+  {
+    "customer_id": "CUST-011",
+    "first_name": "Kevin",
+    "last_name": "Bacon",
+    "email": "kbacon@example.com",
+    "phone": "555-0110",
+    "address": "852 Poplar St, Footloose",
+    "date_of_birth": "1970-01-20",
+    "account_balance": 410.25,
+    "created_at": "2024-08-22T14:40:00Z"
+  },
+  {
+    "customer_id": "CUST-012",
+    "first_name": "Laura",
+    "last_name": "Croft",
+    "email": "laura.c@example.com",
+    "phone": "555-0111",
+    "address": "963 Mansion Rd, Surrey",
+    "date_of_birth": "1992-02-14",
+    "account_balance": 55000.00,
+    "created_at": "2024-09-10T11:15:00Z"
+  },
+  {
+    "customer_id": "CUST-013",
+    "first_name": "Michael",
+    "last_name": "Scott",
+    "email": "mscott@example.com",
+    "phone": "555-0112",
+    "address": "159 Paper Ln, Scranton",
+    "date_of_birth": "1964-03-15",
+    "account_balance": -150.00,
+    "created_at": "2024-09-25T16:50:00Z"
+  },
+  {
+    "customer_id": "CUST-014",
+    "first_name": "Nina",
+    "last_name": "Simone",
+    "email": "nina.s@example.com",
+    "phone": "555-0113",
+    "address": "357 Music Blvd, Tryon",
+    "date_of_birth": "1945-02-21",
+    "account_balance": 7200.75,
+    "created_at": "2024-10-05T08:20:00Z"
+  },
+  {
+    "customer_id": "CUST-015",
+    "first_name": "Oscar",
+    "last_name": "Martinez",
+    "email": "oscar.m@example.com",
+    "phone": "555-0114",
+    "address": "468 Accounting St, Scranton",
+    "date_of_birth": "1978-11-18",
+    "account_balance": 6500.00,
+    "created_at": "2024-10-18T09:45:00Z"
+  },
+  {
+    "customer_id": "CUST-016",
+    "first_name": "Pam",
+    "last_name": "Beesly",
+    "email": "pam.b@example.com",
+    "phone": "555-0115",
+    "address": "579 Art Way, Scranton",
+    "date_of_birth": "1980-03-25",
+    "account_balance": 850.50,
+    "created_at": "2024-11-01T10:30:00Z"
+  },
+  {
+    "customer_id": "CUST-017",
+    "first_name": "Quincy",
+    "last_name": "Jones",
+    "email": "qjones@example.com",
+    "phone": "555-0116",
+    "address": "680 Studio Rd, Chicago",
+    "date_of_birth": "1955-05-14",
+    "account_balance": 45000.00,
+    "created_at": "2024-11-20T14:15:00Z"
+  },
+  {
+    "customer_id": "CUST-018",
+    "first_name": "Rachel",
+    "last_name": "Green",
+    "email": "rachel.g@example.com",
+    "phone": "555-0117",
+    "address": "791 Fashion Ave, Manhattan",
+    "date_of_birth": "1985-05-05",
+    "account_balance": 320.00,
+    "created_at": "2024-12-05T11:00:00Z"
+  },
+  {
+    "customer_id": "CUST-019",
+    "first_name": "Steve",
+    "last_name": "Rogers",
+    "email": "srogers@example.com",
+    "phone": "555-0118",
+    "address": "802 Shield St, Brooklyn",
+    "date_of_birth": "1920-07-04",
+    "account_balance": 1800.25,
+    "created_at": "2024-12-15T09:10:00Z"
+  },
+  {
+    "customer_id": "CUST-020",
+    "first_name": "Tony",
+    "last_name": "Stark",
+    "email": "tony.s@example.com",
+    "phone": "555-0119",
+    "address": "913 Malibu Pt, Malibu",
+    "date_of_birth": "1975-05-29",
+    "account_balance": 999999.99,
+    "created_at": "2024-12-28T16:45:00Z"
+  },
+  {
+    "customer_id": "CUST-021",
+    "first_name": "Ursula",
+    "last_name": "Buffay",
+    "email": "ursula.b@example.com",
+    "phone": "555-0120",
+    "address": "124 Twin St, Manhattan",
+    "date_of_birth": "1985-02-16",
+    "account_balance": 100.00,
+    "created_at": "2025-01-05T10:20:00Z"
+  }
+]
